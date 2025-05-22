@@ -11,6 +11,9 @@
         <asp:ImageButton ID="Image1" runat="server" ImageUrl="images/image1.jpg" OnClick="Image_Click" CommandArgument="A" />
         <asp:ImageButton ID="Image2" runat="server" ImageUrl="images/image2.jpg" OnClick="Image_Click" CommandArgument="B" />
         <asp:ImageButton ID="Image3" runat="server" ImageUrl="images/image3.jpg" OnClick="Image_Click" CommandArgument="C" />
+        <asp:ImageButton ID="Image4" runat="server" ImageUrl="images/image4.jpg" OnClick="Image_Click" CommandArgument="D" />
+        <asp:ImageButton ID="Image5" runat="server" ImageUrl="images/image5.jpg" OnClick="Image_Click" CommandArgument="E" />
+
         <br /><br />
         <asp:Label ID="lblResult" runat="server" Font-Bold="True"></asp:Label>
     </form>

@@ -23,6 +23,13 @@ namespace PersonalityImageTest
                 case "C":
                     result = "You are outgoing and spontaneous.";
                     break;
+                case "D":
+                    result = "You are calm and thoughtful.";
+                    break;
+                case "E":
+                    result = "You are passionate and driven.";
+                    break;
+
             }
 
             lblResult.Text = "Your Personality: " + result;
