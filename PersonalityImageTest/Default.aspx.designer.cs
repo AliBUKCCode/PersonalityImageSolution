@@ -51,6 +51,24 @@ namespace PersonalityImageTest
         protected global::System.Web.UI.WebControls.ImageButton Image3;
 
         /// <summary>
+        /// Image4 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ImageButton Image4;
+
+        /// <summary>
+        /// Image5 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ImageButton Image5;
+
+        /// <summary>
         /// lblResult control.
         /// </summary>
         /// <remarks>
